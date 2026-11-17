@@ -23,7 +23,7 @@ Automatizar a instalação, configuração, monitorização e avaliação do [Wa
 
 | Fase | Prazo | Estado |
 |---|---|---|
-| Checkpoint 1: relatório inicial | 08/11/2026 | ✅ [Relatório](docs/checkpoint1-relatorio-inicial.pdf) |
+| Checkpoint 1: relatório inicial | 08/11/2026 | ✅ [Relatório](checkpoint1-relatorio-inicial.pdf) |
 | Checkpoint 2: aplicação no GKE acessível do exterior | 06/12/2026 | ⏳ |
 | Entrega final: código e relatório | 30/12/2026 | ⏳ |
 
